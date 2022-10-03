@@ -7,6 +7,10 @@ Atualmente, aprendendo HTML5, CSS3 e JavaScript para atuação em Front-End.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela-Vasco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=devweekgit.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
