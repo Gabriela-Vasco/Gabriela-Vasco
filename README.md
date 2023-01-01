@@ -1,5 +1,5 @@
 ## Olá, tudo bem? 👋
-Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web e me interesso por desenvolvimento Back-End.
+Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web, com foco em desenvolvimento Back-End.
 
 <div>
 <a href="[https://github.com/Gabriela-Vasco](https://github.com/Gabriela-Vasco)">
@@ -28,7 +28,6 @@ Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvi
   
  ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ### Alguns projetos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=devweekgit.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
