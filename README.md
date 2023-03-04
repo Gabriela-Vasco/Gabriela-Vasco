@@ -30,7 +30,8 @@ Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvi
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Alguns projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=devweekgit.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=Design-Patterns&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=desafio-poo-dio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
