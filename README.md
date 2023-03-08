@@ -29,10 +29,6 @@ Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvi
  ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### Alguns projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=Design-Patterns&theme=tokyonight)](https://github.com/Gabriela-Vasco/Design-Patterns)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriela-Vasco&repo=desafio-poo-dio&theme=tokyonight)](https://github.com/Gabriela-Vasco/desafio-poo-dio)
-
 
 <div>
 <a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/">
