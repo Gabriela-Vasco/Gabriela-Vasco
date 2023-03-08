@@ -5,6 +5,8 @@ Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvi
 <a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/">
 <img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
+  
+</br>  
 
 <div>
 <a href="[https://github.com/Gabriela-Vasco](https://github.com/Gabriela-Vasco)">
