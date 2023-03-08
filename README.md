@@ -2,6 +2,11 @@
 Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web, com foco em desenvolvimento Back-End.
 
 <div>
+<a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/">
+<img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+<div>
 <a href="[https://github.com/Gabriela-Vasco](https://github.com/Gabriela-Vasco)">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Vasco&layout=compact&langs_count=7&theme=dracula"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabriela-Vasco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,10 +35,7 @@ Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvi
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<div>
-<a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/">
-<img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
+
 
 <!--
 **Gabriela-Vasco/Gabriela-Vasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
