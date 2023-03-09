@@ -2,9 +2,9 @@
 <h3>Faço faculdade de Engenharia de Software, atualmente estou estudando Desenvolvimento Web, com foco em desenvolvimento Back-End.</h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/">
+  <a href="https://www.linkedin.com/in/gabriela-vasco-da-silva/" target=_blank>
   <img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="gabrielavs1226@gmail.com">
+  <a href="mailto: gabrielavs1226@gmail.com" target=_blank>
   <img height="30cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </div>
   
